@@ -1,0 +1,33 @@
+body {
+    background-color: #f8edeb;
+}
+
+
+.first-sec {
+    background-color: #d8e2dc;
+    margin-top: 20px;
+    padding:  20px;
+    border-radius: 10px;
+}
+
+h1 {
+
+    font-family: 'Pangolin', cursive;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.Quiz {
+    background-color: #d8e2dc;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.question {
+    margin-bottom: 50px;
+}
+
+.btn {
+    margin-left: 20vw;
+}
